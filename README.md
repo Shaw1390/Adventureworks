@@ -5,7 +5,7 @@ This project is centered around developing Extract, Transfor and Load (ETL) pipe
 
 ## Dataset
 
-The dataset used in this prokect contains detailed information of sales transactions using the AdventureWorks dataset provoded by Microsoft. 
+The dataset used in this prokect contains detailed information of sales transactions using the AdventureWorks dataset provided by Microsoft. 
 
 ## Dataflow
 
