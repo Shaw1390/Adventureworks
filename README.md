@@ -1,4 +1,4 @@
-# Retail Sales Analysus and Optimization using Microsoft Azure
+# Retail Sales Analysis and Optimization using Microsoft Azure
 
 ## Overview
 This project is centered around developing Extract, Transfor and Load (ETL) pipeline showcasing the advanced capabilities of Microsoft Azure. This pipeline effucently reterives data from Kaggla API, performs neccessart trrabsformations usinf Azure Databricks and Azure Data Factory, and stores it in Azure Data Lake containers. Then using Azure Synapse and Power BI a report is created. Additionally, the pipeline features a sales analysis component using PySpark within Azure Databricks, enabling comprehensive examination and analysis of sales data. The final analyzed data is securely stored in a SQL layer for subsequent use. This holistic solution streamlines the data processing workflow and provides actionable insights from the transformed and analyzed data, enhancing decision-making processes.
@@ -9,6 +9,11 @@ The dataset used in this prokect contains detailed information of sales transact
 
 ## Dataflow
 
- 1. Extract Data: Retrive the data from Kaggle API and ingest it into the Azure Data Factory.
+* Extract Data: Retrive the data from Kaggle API and ingest it into the Azure Data Factory.
 
- 2. 
+* Transform Data: The data is then transformed from bronze layer stored in Azure blog to silver layer using Microsoft Azure Databricks.
+
+* Load Data: The data is silver layer. Using Microsoft Azure Synapse the data is transformed into Gold layer and then connected to Power BI to create dashboard for the stakeholders.
+
+## Dashboard 
+
