@@ -19,3 +19,4 @@ The dataset used in this prokect contains detailed information of sales transact
 
 ## Dashboard 
 
+![plot](https://github.com/Shaw1390/Adventureworks/blob/main/Img/a.jpg?raw=true)
