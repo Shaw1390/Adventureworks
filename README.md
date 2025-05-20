@@ -19,4 +19,6 @@ The dataset used in this prokect contains detailed information of sales transact
 
 ## Dashboard 
 
+The dashboard provides insightful visualizations and real-time analytics, enabling efficient data exploration and decision-making. It demonstrates the integration of enterprise-grade cloud data warehousing with powerful business intelligence tools.
+
 ![plot](https://github.com/Shaw1390/Adventureworks/blob/main/Img/a.jpg?raw=true)
