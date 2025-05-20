@@ -15,7 +15,7 @@ The dataset used in this prokect contains detailed information of sales transact
 
 * Load Data: The data is silver layer. Using Microsoft Azure Synapse the data is transformed into Gold layer and then connected to Power BI to create dashboard for the stakeholders.
 
-!(https://github.com/Shaw1390/Adventureworks/blob/main/Img/Screenshot%202025-05-19%20174048.jpg?raw=true)
+![plot](https://github.com/Shaw1390/Adventureworks/blob/main/Img/Screenshot%202025-05-19%20174048.jpg?raw=true)
 
 ## Dashboard 
 
